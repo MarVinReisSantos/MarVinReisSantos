@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Marcos Vinicius. Atualmente estou em busca de uma oportunidade para desenvolvedor junior. Gosto de aprender novas tecnologias por meio de cursos online, e de ouvir Podcast para ficar bem informado sobre esse grande mundo da Informática e da Ciência.
 
-<div align="center">
+<div align="center" color="blue">
   <a href="https://github.com/MarVinReisSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarVinReisSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarVinReisSantos&layout=compact&langs_count=7&theme=dracula"/>
@@ -14,11 +14,11 @@
   <img align="center" alt="Marvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marvin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marvin-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Marvin-pic" height="150" style="border-radius:50px;" src="https://altio.com.br/wp-content/uploads/2020/01/BizCRM.gif?width=676&height=676">
 </div>
   
   ##
- 
+ ## 👀 Tenho interesse em aprender novas tecnologias, sempre com muita dedicação e disciplina. Além disso, desejo evoluir minha carreira profissional na área de desenvolvimento de software.
 <div> 
   <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
