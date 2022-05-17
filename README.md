@@ -1,4 +1,4 @@
-## 👋 Olá, sou Marcos Vinicius. Atualmente estou em busca de uma oportunidade para desenvolvedor junior. Gosto de aprender novas tecnologias por meio de cursos online, e de ouvir Podcast para me informar sobre as grandes novidades do mundo da Informática.
+## 👋 Olá, sou Marcos Vinicius. Atualmente estou em busca de uma oportunidade para desenvolvedor junior. Gosto de aprender novas tecnologias por meio de cursos online e de ouvir Podcast para me informar sobre as grandes novidades do mundo da Informática.
 
 <div align="center" color="">
   <a href="https://github.com/MarVinReisSantos">
@@ -18,10 +18,10 @@
 </div>
   
   ##
- ## 👀 Tenho interesse em aprender novas tecnologias, sempre com muita dedicação e disciplina. Além disso, desejo evoluir minha carreira profissional na área de desenvolvimento de software.
+ ## 👀 Tenho interesse em aprender novas tecnologias, sempre com muita dedicação e disciplina. Além disso, desejo evoluir minha carreira profissional na área de desenvolvimento de Software.
 <div> 
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/marcos_vinicius_reis_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos.vinicius.reis.santos.98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/marcos-vinicius-reis-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
