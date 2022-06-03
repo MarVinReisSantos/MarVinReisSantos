@@ -1,5 +1,4 @@
-## 👋 Olá, sou Marcos Vinícius, técnico em Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI), graduando em Engenharia de Controle e Automação (IFMG), entusiasta por software e tecnologias. Gosto de me divertir com o aprendizado de linguagens de programação, por meio de cursos online. Para me manter informado das novas tendências do mundo da tecnologia participo de festival de inovação, criatividade, empreendedorismo e feiras de ciências. 
-
+## 👋 Olá, sou Marcos Vinícius, técnico em Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI), graduando em Engenharia de Controle e Automação (IFMG), entusiasta por software e tecnologias. Gosto de me divertir com o aprendizado de linguagens de programação, por meio de cursos online. Para me manter informado das novas tendências do mundo da tecnologia participo de festival de inovação, criatividade, empreendedorismo e feiras de ciências. Há pouco conteúdo no meu portfólio, mas estou dedicado na sua criação.
 
 <div align="center" color="">
   <a href="https://github.com/MarVinReisSantos">
