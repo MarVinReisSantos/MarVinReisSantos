@@ -1,6 +1,6 @@
-### 👋 Olá, sou Marcos Vinícius, técnico em Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia de Controle e Automação (IFMG), entusiasta por software e tecnologias. Para me manter informado das novas tendências do mundo da tecnologia participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da computação.
+### 👋 Olá, sou Marcos Vinícius, técnico em Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia de Computação (CEFET-MG), entusiasta por software e tecnologias. Para me manter informado das novas tendências do mundo da tecnologia participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da computação.
 
-#### 👋 Hello, I'm Marcos Vinícius, technician in Computer Networks (CEFET-MG) and Mechatronics (SENAI-MG), graduating in Control and Automation Engineering (IFMG), software and technology enthusiast. To keep myself informed of new trends in the world of technology, I participate in a festival of innovation, creativity, lectures and I like to listen to podcasts about news in the world of computing.
+#### 👋 👋 Hello, I'm Marcos Vinícius, technician in Computer Networks (CEFET-MG) and Mechatronics (SENAI-MG), graduating in Computer Engineering (CEFET-MG), enthusiastic about software and technologies. To keep me informed of new trends in the world of technology, I participate in the festival of innovation, creativity, lectures and I like to listen to podcasts about the news in the world of computing.
 
 <div align="center" color="">
   <a href="https://github.com/MarVinReisSantos">
