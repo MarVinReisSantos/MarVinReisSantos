@@ -1,6 +1,6 @@
-### 👋 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). 💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da computação. 
+### 👋 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). 💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da tecnologia. 
 
-#### 👋 Graduated in Computer Networks technician (CEFET-MG) and Mechatronics (SENAI-MG), majoring in Computer Engineering (CEFET-MG). 💻 Enthusiast for Software, Cloud Computing, Digital Games and Metaverse. For this, I participate in festivals of innovation, creativity, lectures and I like to listen to podcasts about the latest in the world of computing.
+#### 👋 Graduated in Computer Networks technician (CEFET-MG) and Mechatronics (SENAI-MG), majoring in Computer Engineering (CEFET-MG). 💻 Enthusiast for Software, Cloud Computing, Digital Games and Metaverse. For this, I participate in festivals of innovation, creativity, lectures and I like to listen to podcasts about the latest in the world of technology.
 
 <div align="center" color="">
   <a href="https://github.com/MarVinReisSantos">
