@@ -1,25 +1,42 @@
-### 👋 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). 💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da tecnologia. 
+<div>
+<h1  align="center">Olá, Sou Marcos Vinicius </br> Desenvolvedor Web e UX/UI Designer</h1>
 
-#### 👋 Graduated in Computer Networks technician (CEFET-MG) and Mechatronics (SENAI-MG), majoring in Computer Engineering (CEFET-MG). 💻 Enthusiast for Software, Cloud Computing, Digital Games and Metaverse. For this, I participate in festivals of innovation, creativity, lectures and I like to listen to podcasts about the latest in the world of technology.
+<h3 align="center">🐼 Sobre Mim</h3>
 
-<div align="center" color="">
-  <a href="https://github.com/MarVinReisSantos">
-  <img width="42%" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarVinReisSantos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarVinReisSantos&layout=compact&langs_count=7&theme=onedark"/>
+👋 Sou Marcos tenho 24 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End</br>
+🚀 Estudante de desenvolvimento FullStack na Alura</br>
+📚 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). </br>
+💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da tecnologia. 
+</div>
+<h2></h2>
 
-<div style="display: inline_block"><br>
+
+<div align="center" style="display: inline_block">
+  <h3>⚡ Tecnologias</h3>
+  <h4>Algumas das tecnologias nas quais eu trabalho</h4>
+  <img align="center" alt="Marvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marvin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marvin-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Marvin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marvin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marvin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marvin-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Marvin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Marvin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marvin-Csharp" height="30" width="40" src="https://i0.wp.com/techwek.com/wp-content/uploads/2021/02/tec.gif?resize=448%2C775&ssl=1">
+  <img align="center" alt="Marvin-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Marvin-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 </div>
+<h2></h2>
 
-  ##
-<div> 
+
+<div align="center" color="">
+  <h3>📈 Minhas estatísticas</h3>
+  <a href="https://github.com/MarVinReisSantos">
+  <img width="42%" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarVinReisSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarVinReisSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<h2></h2>
+
+<div align="center"> 
+  <h3>☎️ Contate-me</h3>
   <h2>
   <a href="https://t.me/marcos_vinicius_reis_santos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/55031999512543" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -27,6 +44,7 @@
   <a href="https://www.linkedin.com/in/marcos-vinicius-reis-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h2/>
     
+
   ![Snake animation](https://github.com/MarVinReisSantos/MarVinReisSantos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
