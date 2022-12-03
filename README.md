@@ -4,7 +4,7 @@
 <h3 align="center">🐼 Sobre Mim</h3>
 
 👋 Sou Marcos tenho 24 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End</br>
-🚀 Estudante de desenvolvimento FullStack na Alura</br>
+🚀 Estudante de desenvolvimento Full Stack na Alura</br>
 📚 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). </br>
 💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da tecnologia. 
 </div>
