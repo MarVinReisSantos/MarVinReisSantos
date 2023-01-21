@@ -1,12 +1,12 @@
 <div>
-<h1  align="center">Olá, Sou Marcos Vinicius </br> Desenvolvedor Web e UX/UI Designer</h1>
+<h1  align="center">👋Olá, Sou Marcos Vinicius </br> Desenvolvedor Web</h1>
 
 <h3 align="center">🐼 Sobre Mim</h3>
 
-👋 Sou Marcos tenho 24 anos, estou em busca de minha primeira vaga como desenvolvedor Front-End</br>
-🚀 Estudante de desenvolvimento Full Stack na Alura</br>
+👨 Tenho 24 anos, morador da cidade de Betim no estado de Minas Gerais.</br>
 📚 Formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG), graduando em Engenharia da Computação (CEFET-MG). </br>
-💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras e gosto de ouvir podcast sobre as novidades do mundo da tecnologia. 
+🚀 Estudante de desenvolvimento Full Stack e de Soft Skills na Alura.</br>
+💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras, comunidades e gosto de ouvir podcast sobre as novidades do mundo da tecnologia.
 </div>
 <h2></h2>
 
@@ -30,8 +30,8 @@
 <div align="center" color="">
   <h3>📈 Minhas estatísticas</h3>
   <a href="https://github.com/MarVinReisSantos">
-  <img width="42%" height="200em" src="https://github-readme-stats.vercel.app/api?username=MarVinReisSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarVinReisSantos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api?username=marvinreissantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinreissantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h2></h2>
 
@@ -44,7 +44,6 @@
   <a href="https://www.linkedin.com/in/marcos-vinicius-reis-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <h2/>
     
-
   ![Snake animation](https://github.com/MarVinReisSantos/MarVinReisSantos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
