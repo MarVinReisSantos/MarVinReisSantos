@@ -3,7 +3,7 @@
 
 <h3 align="center">🐼 Sobre Mim</h3>
 
-👨 Tenho 25 anos, morador da cidade de Betim no estado de Minas Gerais</br>
+👨 Tenho 27 anos, morador da cidade de Betim no estado de Minas Gerais</br>
 📚 Graduando em Sistemas de Informação (PUC-MG), formado em técnico de Redes de Computadores (CEFET-MG) e Mecatrônica (SENAI-MG)</br>
 🚀 Estudante de desenvolvimento Full Stack e de Soft Skills</br>
 💻 Entusiasta por Software, Computação em Nuvem, Jogos Digitais e Metaverso. Para isso, participo de festival de inovação, criatividade, palestras, comunidades e gosto de ouvir podcast sobre as novidades do mundo da tecnologia
